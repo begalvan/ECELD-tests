@@ -1,0 +1,15 @@
+[
+  {
+    "keypresses_id": 2,
+    "content": "[BackSpace]    ",
+    "className": "Keypresses",
+    "start": "04/07/2021T08:23:45"
+  },
+  {
+    "clicks_id": 1,
+    "content": "C:/Users/begv1/Desktop/ECELD-test/Test10min/ecel-export_1617784250\\raw/pykeylogger/click_images/1617783826.4792676_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T08:23:46"
+  }
+]

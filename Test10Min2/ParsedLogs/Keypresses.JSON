@@ -1,0 +1,20 @@
+[
+	{"keypresses_id" : 0, "content" : "ip a s [Shift_R][bar] grep -w inet [Shift_R][bar] awk", "className" : "Keypresses", "start" : "2021-04-07T16:04:45"},
+	{"keypresses_id" : 1, "content" : " '[Shift_R]{print [Shift_R]$2[Shift_R]}'[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:04:55"},
+	{"keypresses_id" : 2, "content" : "sudo ifconfig[Return]kali[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:05:08"},
+	{"keypresses_id" : 3, "content" : "cd [Shift_R]Desktop[Return]ls[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:05:20"},
+	{"keypresses_id" : 4, "content" : "cd ..[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:05:26"},
+	{"keypresses_id" : 5, "content" : "sudo lsof -i -[Shift_R]P -n[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:05:44"},
+	{"keypresses_id" : 6, "content" : "sudo ss -tunj[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:06:01"},
+	{"keypresses_id" : 7, "content" : "clear[Return]duso[BackSpace][BackSpace][BackSpace][BackSpace]sudo ss -tulwn[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:06:19"},
+	{"keypresses_id" : 8, "content" : "utep.[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:06:49"},
+	{"keypresses_id" : 9, "content" : "ping 8.8.8.8[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:09:02"},
+	{"keypresses_id" : 10, "content" : "sudo lsof -i -[Shift_R]P -n[Return]kali[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:09:31"},
+	{"keypresses_id" : 11, "content" : "sudo ss -tulwn[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:09:42"},
+	{"keypresses_id" : 12, "content" : "[Control_L]z", "className" : "Keypresses", "start" : "2021-04-07T16:09:51"},
+	{"keypresses_id" : 13, "content" : "[Up]", "className" : "Keypresses", "start" : "2021-04-07T16:09:55"},
+	{"keypresses_id" : 14, "content" : "[Up]", "className" : "Keypresses", "start" : "2021-04-07T16:09:57"},
+	{"keypresses_id" : 15, "content" : "[Return]", "className" : "Keypresses", "start" : "2021-04-07T16:10:02"},
+	{"keypresses_id" : 16, "content" : "[Up][Up][Return]", "className" : "Keypresses", "start" : "2021-04-07T16:10:18"},
+	{"keypresses_id" : 17, "content" : "clear", "className" : "Keypresses", "start" : "2021-04-07T16:10:29"}
+]

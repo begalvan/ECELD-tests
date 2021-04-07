@@ -1,0 +1,27 @@
+[
+  {
+    "auditd_id": 10,
+    "content": "sudo ps -a",
+    "className": "auditd",
+    "start": "04/07/2021T20:22:49"
+  },
+  {
+    "auditd_id": 11,
+    "content": "ps -a",
+    "className": "auditd",
+    "start": "04/07/2021T20:22:49"
+  },
+  {
+    "keypresses_id": 14,
+    "content": "-[BackSpace]ps -a[Return]",
+    "className": "Keypresses",
+    "start": "04/07/2021T20:22:49"
+  },
+  {
+    "clicks_id": 59,
+    "content": "C:/Users/begv1/Desktop/ECELD-tests/Test15Min2/ecel-export_1617827704\\raw/pykeylogger/click_images/1617826971.437711_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T20:22:51"
+  }
+]

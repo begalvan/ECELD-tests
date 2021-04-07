@@ -1,0 +1,20 @@
+[
+  {
+    "auditd_id": 13,
+    "content": "sudo ss -tulwn",
+    "className": "auditd",
+    "start": "04/07/2021T16:06:19"
+  },
+  {
+    "auditd_id": 14,
+    "content": "ss -tulwn",
+    "className": "auditd",
+    "start": "04/07/2021T16:06:19"
+  },
+  {
+    "keypresses_id": 7,
+    "content": "clear[Return]duso[BackSpace][BackSpace][BackSpace][BackSpace]sudo ss -tulwn[Return]",
+    "className": "Keypresses",
+    "start": "04/07/2021T16:06:19"
+  }
+]

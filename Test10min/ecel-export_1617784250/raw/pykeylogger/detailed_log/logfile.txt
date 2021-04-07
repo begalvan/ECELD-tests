@@ -1,0 +1,188 @@
+20210407|1617783804.8387823|qterminal|.Window'>(|root|kali@kali: ~|i
+20210407|1617783805.0214622|qterminal|.Window'>(|root|kali@kali: ~|p
+20210407|1617783805.5964198|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783805.7475996|qterminal|.Window'>(|root|kali@kali: ~|a
+20210407|1617783806.0850253|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783806.2613926|qterminal|.Window'>(|root|kali@kali: ~|s
+20210407|1617783807.1455228|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783808.6291354|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783808.7434306|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:bar]
+20210407|1617783810.5971072|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783811.8104527|qterminal|.Window'>(|root|kali@kali: ~|g
+20210407|1617783812.0231721|qterminal|.Window'>(|root|kali@kali: ~|r
+20210407|1617783812.111432|qterminal|.Window'>(|root|kali@kali: ~|e
+20210407|1617783812.4355419|qterminal|.Window'>(|root|kali@kali: ~|p
+20210407|1617783813.509519|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783816.5057094|qterminal|.Window'>(|root|kali@kali: ~|-
+20210407|1617783816.9526782|qterminal|.Window'>(|root|kali@kali: ~|w
+20210407|1617783818.6559772|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783819.695089|qterminal|.Window'>(|root|kali@kali: ~|i
+20210407|1617783819.7993572|qterminal|.Window'>(|root|kali@kali: ~|n
+20210407|1617783819.8802702|qterminal|.Window'>(|root|kali@kali: ~|e
+20210407|1617783820.180692|qterminal|.Window'>(|root|kali@kali: ~|t
+20210407|1617783821.289657|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783821.6249423|qterminal|.Window'>(|root|kali@kali: ~|\
+20210407|1617783823.954558|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783824.5553346|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783825.1070936|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783825.2431486|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783825.3858085|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783828.1190512|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783828.4512813|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783828.825394|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783828.835275|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783829.534715|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783830.8774083|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783831.4413743|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783831.585538|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:bar]
+20210407|1617783832.903857|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783834.4783137|qterminal|.Window'>(|root|kali@kali: ~|a
+20210407|1617783834.773862|qterminal|.Window'>(|root|kali@kali: ~|w
+20210407|1617783834.9808617|qterminal|.Window'>(|root|kali@kali: ~|k
+20210407|1617783837.0140495|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783838.2008376|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783838.9876063|qterminal|.Window'>(|root|kali@kali: ~|"
+20210407|1617783839.412081|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783839.609844|qterminal|.Window'>(|root|kali@kali: ~|{
+20210407|1617783842.3022678|qterminal|.Window'>(|root|kali@kali: ~|p
+20210407|1617783842.5574522|qterminal|.Window'>(|root|kali@kali: ~|r
+20210407|1617783842.56321|qterminal|.Window'>(|root|kali@kali: ~|i
+20210407|1617783842.6524675|qterminal|.Window'>(|root|kali@kali: ~|n
+20210407|1617783842.7496343|qterminal|.Window'>(|root|kali@kali: ~|t
+20210407|1617783844.4196699|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783845.2625103|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783846.32775|qterminal|.Window'>(|root|kali@kali: ~|$
+20210407|1617783846.779528|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783846.9068077|qterminal|.Window'>(|root|kali@kali: ~|@
+20210407|1617783847.3595796|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783847.4165616|qterminal|.Window'>(|root|kali@kali: ~|}
+20210407|1617783848.1140122|qterminal|.Window'>(|root|kali@kali: ~|'
+20210407|1617783849.5644662|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783849.7598004|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783849.9946218|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783850.343803|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783852.76494|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783853.768|qterminal|.Window'>(|root|kali@kali: ~|$
+20210407|1617783854.0958798|qterminal|.Window'>(|root|kali@kali: ~|2
+20210407|1617783854.6450007|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783854.9044273|qterminal|.Window'>(|root|kali@kali: ~|}
+20210407|1617783855.463219|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783857.3306277|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783858.4015007|qterminal|.Window'>(|root|kali@kali: ~|'
+20210407|1617783860.107391|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783860.3196924|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783860.474423|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783860.6501017|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783860.7978144|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783860.941276|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783861.3897316|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783861.5490878|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783861.9813046|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783862.2072425|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783862.3561757|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783862.566035|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Left]
+20210407|1617783863.8733423|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783864.3361595|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:BackSpace]
+20210407|1617783864.893934|qterminal|.Window'>(|root|kali@kali: ~|'
+20210407|1617783866.6465323|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783866.8667097|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783867.0623808|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783867.2279575|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783867.422078|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783867.6316698|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783867.7994053|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783867.9852827|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783868.1727586|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783868.5193205|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783868.7667975|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Right]
+20210407|1617783869.948847|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Return]
+20210407|1617783889.8889563|qterminal|.Window'>(|root|kali@kali: ~|p
+20210407|1617783890.1446412|qterminal|.Window'>(|root|kali@kali: ~|w
+20210407|1617783890.413293|qterminal|.Window'>(|root|kali@kali: ~|d
+20210407|1617783890.7738945|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Return]
+20210407|1617783896.038891|qterminal|.Window'>(|root|kali@kali: ~|p
+20210407|1617783896.2458766|qterminal|.Window'>(|root|kali@kali: ~|i
+20210407|1617783896.375962|qterminal|.Window'>(|root|kali@kali: ~|n
+20210407|1617783896.8739097|qterminal|.Window'>(|root|kali@kali: ~|g
+20210407|1617783898.5733774|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783899.9888136|qterminal|.Window'>(|root|kali@kali: ~|g
+20210407|1617783900.108826|qterminal|.Window'>(|root|kali@kali: ~|o
+20210407|1617783900.2700372|qterminal|.Window'>(|root|kali@kali: ~|o
+20210407|1617783900.4888527|qterminal|.Window'>(|root|kali@kali: ~|g
+20210407|1617783900.7292516|qterminal|.Window'>(|root|kali@kali: ~|l
+20210407|1617783901.0097675|qterminal|.Window'>(|root|kali@kali: ~|e
+20210407|1617783901.415281|qterminal|.Window'>(|root|kali@kali: ~|.
+20210407|1617783901.6103497|qterminal|.Window'>(|root|kali@kali: ~|c
+20210407|1617783901.8001065|qterminal|.Window'>(|root|kali@kali: ~|o
+20210407|1617783901.899368|qterminal|.Window'>(|root|kali@kali: ~|m
+20210407|1617783902.6021876|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Return]
+20210407|1617783919.490758|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Control_L]
+20210407|1617783920.0939326|qterminal|.Window'>(|root|kali@kali: ~|z
+20210407|1617783924.7777042|qterminal|.Window'>(|root|kali@kali: ~|c
+20210407|1617783925.0110662|qterminal|.Window'>(|root|kali@kali: ~|d
+20210407|1617783925.2198503|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617783925.804571|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Shift_R]
+20210407|1617783926.0187104|qterminal|.Window'>(|root|kali@kali: ~|D
+20210407|1617783926.3749194|qterminal|.Window'>(|root|kali@kali: ~|e
+20210407|1617783927.7389607|qterminal|.Window'>(|root|kali@kali: ~|s
+20210407|1617783927.8873|qterminal|.Window'>(|root|kali@kali: ~|k
+20210407|1617783928.1498353|qterminal|.Window'>(|root|kali@kali: ~|t
+20210407|1617783928.2384284|qterminal|.Window'>(|root|kali@kali: ~|o
+20210407|1617783928.3715532|qterminal|.Window'>(|root|kali@kali: ~|p
+20210407|1617783929.046682|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Return]
+20210407|1617783930.6967752|qterminal|.Window'>(|root|kali@kali: ~/Desktop|l
+20210407|1617783931.0045233|qterminal|.Window'>(|root|kali@kali: ~/Desktop|s
+20210407|1617783931.3994029|qterminal|.Window'>(|root|kali@kali: ~/Desktop|[KeyName:Return]
+20210407|1617783942.4463284|qterminal|.Window'>(|root|kali@kali: ~/Desktop|c
+20210407|1617783942.704169|qterminal|.Window'>(|root|kali@kali: ~/Desktop|d
+20210407|1617783943.231648|qterminal|.Window'>(|root|kali@kali: ~/Desktop| 
+20210407|1617783944.510019|qterminal|.Window'>(|root|kali@kali: ~/Desktop|.
+20210407|1617783944.797348|qterminal|.Window'>(|root|kali@kali: ~/Desktop|.
+20210407|1617783945.2997181|qterminal|.Window'>(|root|kali@kali: ~/Desktop|[KeyName:Return]
+20210407|1617783974.8549244|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|u
+20210407|1617783975.616561|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|t
+20210407|1617783975.6758635|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|e
+20210407|1617783975.8418567|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|.
+20210407|1617783976.1450293|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|.
+20210407|1617783977.9790668|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|[KeyName:BackSpace]
+20210407|1617783980.6500807|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|[KeyName:BackSpace]
+20210407|1617783981.640049|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|p
+20210407|1617783982.0907164|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|.
+20210407|1617783982.3085694|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|e
+20210407|1617783982.5324237|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|d
+20210407|1617783982.6510558|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|u
+20210407|1617783983.2764099|Navigator|.Window'>(|root|Kali Linux, an Offensive Security Project - Mozilla Firefox|[KeyName:Return]
+20210407|1617784148.4499388|Navigator|.Window'>(|root|Mozilla Firefox|g
+20210407|1617784148.6541407|Navigator|.Window'>(|root|Mozilla Firefox|o
+20210407|1617784148.8115578|Navigator|.Window'>(|root|Mozilla Firefox|o
+20210407|1617784148.8340864|Navigator|.Window'>(|root|Mozilla Firefox|g
+20210407|1617784149.0300088|Navigator|.Window'>(|root|Mozilla Firefox|l
+20210407|1617784149.9797752|Navigator|.Window'>(|root|Mozilla Firefox|[KeyName:Return]
+20210407|1617784162.987861|Navigator|.Window'>(|root|Google - Mozilla Firefox|d
+20210407|1617784163.4949946|Navigator|.Window'>(|root|Google - Mozilla Firefox|e
+20210407|1617784163.6157472|Navigator|.Window'>(|root|Google - Mozilla Firefox|l
+20210407|1617784163.7940168|Navigator|.Window'>(|root|Google - Mozilla Firefox|t
+20210407|1617784163.8292928|Navigator|.Window'>(|root|Google - Mozilla Firefox|a
+20210407|1617784163.9415097|Navigator|.Window'>(|root|Google - Mozilla Firefox| 
+20210407|1617784164.266839|Navigator|.Window'>(|root|Google - Mozilla Firefox|t
+20210407|1617784164.294559|Navigator|.Window'>(|root|Google - Mozilla Firefox|i
+20210407|1617784164.4677858|Navigator|.Window'>(|root|Google - Mozilla Firefox|m
+20210407|1617784164.5254354|Navigator|.Window'>(|root|Google - Mozilla Firefox|e
+20210407|1617784208.8582585|qterminal|.Window'>(|root|kali@kali: ~|p
+20210407|1617784208.900296|qterminal|.Window'>(|root|kali@kali: ~|i
+20210407|1617784209.0986795|qterminal|.Window'>(|root|kali@kali: ~|n
+20210407|1617784209.1974516|qterminal|.Window'>(|root|kali@kali: ~|g
+20210407|1617784210.1332424|qterminal|.Window'>(|root|kali@kali: ~| 
+20210407|1617784211.732099|qterminal|.Window'>(|root|kali@kali: ~|a
+20210407|1617784211.7633564|qterminal|.Window'>(|root|kali@kali: ~|m
+20210407|1617784211.8299215|qterminal|.Window'>(|root|kali@kali: ~|a
+20210407|1617784212.0094523|qterminal|.Window'>(|root|kali@kali: ~|z
+20210407|1617784212.1896236|qterminal|.Window'>(|root|kali@kali: ~|o
+20210407|1617784212.4486787|qterminal|.Window'>(|root|kali@kali: ~|n
+20210407|1617784213.3374941|qterminal|.Window'>(|root|kali@kali: ~|.
+20210407|1617784213.467174|qterminal|.Window'>(|root|kali@kali: ~|c
+20210407|1617784213.6644857|qterminal|.Window'>(|root|kali@kali: ~|o
+20210407|1617784213.798125|qterminal|.Window'>(|root|kali@kali: ~|m
+20210407|1617784214.428015|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Return]
+20210407|1617784231.0109828|qterminal|.Window'>(|root|kali@kali: ~|[KeyName:Control_L]
+20210407|1617784231.0115159|qterminal|.Window'>(|root|kali@kali: ~|z

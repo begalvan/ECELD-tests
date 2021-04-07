@@ -1,0 +1,34 @@
+[
+  {
+    "clicks_id": 23,
+    "content": "C:/Users/begv1/Desktop/ECELD-tests/Test15Min2/ecel-export_1617827704\\raw/pykeylogger/click_images/1617827615.0498893_Prompt_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T20:33:35"
+  },
+  {
+    "timed_id": 43,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617827615.6666577_screenshot.png",
+    "start": "04/07/2021T20:33:35"
+  },
+  {
+    "auditd_id": 37,
+    "content": "sudo ps -a",
+    "className": "auditd",
+    "start": "04/07/2021T20:33:37"
+  },
+  {
+    "auditd_id": 38,
+    "content": "ps -a",
+    "className": "auditd",
+    "start": "04/07/2021T20:33:37"
+  },
+  {
+    "keypresses_id": 45,
+    "content": "sudo ps -a[Return]",
+    "className": "Keypresses",
+    "start": "04/07/2021T20:33:37"
+  }
+]

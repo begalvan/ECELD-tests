@@ -1,0 +1,29 @@
+[
+  {
+    "clicks_id": 38,
+    "content": "C:/Users/begv1/Desktop/ECELD-tests/Test15Min2/ecel-export_1617827704\\raw/pykeylogger/click_images/1617827653.3747618_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T20:34:13"
+  },
+  {
+    "traffic_all_id": 503,
+    "content": "1 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.104 10.0.2.15 443 45096 0x00000014\n",
+    "start": "04/07/2021T20:34:14"
+  },
+  {
+    "traffic_xy_id": 503,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T20:34:14",
+    "y": 1
+  },
+  {
+    "timed_id": 0,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617827656.6441236_screenshot.png",
+    "start": "04/07/2021T20:34:16"
+  }
+]

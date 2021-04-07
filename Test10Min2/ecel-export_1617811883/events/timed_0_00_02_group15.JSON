@@ -1,0 +1,15 @@
+[
+  {
+    "auditd_id": 12,
+    "content": "clear",
+    "className": "auditd",
+    "start": "04/07/2021T16:06:06"
+  },
+  {
+    "timed_id": 12,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617811567.1787207_screenshot.png",
+    "start": "04/07/2021T16:06:07"
+  }
+]

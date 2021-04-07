@@ -1,0 +1,325 @@
+[
+  {
+    "keypresses_id": 8,
+    "content": "ping google.com[Return]",
+    "className": "Keypresses",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "traffic_all_id": 0,
+    "content": "11 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 45768 53\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 34137\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 45768\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 41643 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 34137 53\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 41643\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "traffic_xy_id": 0,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:02",
+    "y": 11
+  },
+  {
+    "suricata_id": 0,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 1,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 2,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 3,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 4,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 5,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 6,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 7,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "suricata_id": 8,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:02"
+  },
+  {
+    "traffic_all_id": 1,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:03"
+  },
+  {
+    "traffic_xy_id": 1,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:03",
+    "y": 2
+  },
+  {
+    "suricata_id": 9,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:25:03"
+  },
+  {
+    "traffic_all_id": 2,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:04"
+  },
+  {
+    "traffic_xy_id": 2,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:04",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 3,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:05"
+  },
+  {
+    "traffic_xy_id": 3,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:05",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 4,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:06"
+  },
+  {
+    "traffic_xy_id": 4,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:06",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 5,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:arp  52:54:00:12:35:02 08:00:27:23:ff:90 10.0.2.2 10.0.2.15\neth:ethertype:arp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 10.0.2.2\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:07"
+  },
+  {
+    "traffic_xy_id": 5,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:07",
+    "y": 4
+  },
+  {
+    "traffic_all_id": 6,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:08"
+  },
+  {
+    "traffic_xy_id": 6,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:08",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 7,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:09"
+  },
+  {
+    "traffic_xy_id": 7,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:09",
+    "y": 2
+  },
+  {
+    "timed_id": 19,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617783910.6077757_screenshot.png",
+    "start": "04/07/2021T08:25:10"
+  },
+  {
+    "traffic_all_id": 8,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:10"
+  },
+  {
+    "traffic_xy_id": 8,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:10",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 9,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:11"
+  },
+  {
+    "traffic_xy_id": 9,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:11",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 10,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:12"
+  },
+  {
+    "traffic_xy_id": 10,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:12",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 11,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:13"
+  },
+  {
+    "traffic_xy_id": 11,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:13",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 12,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:14"
+  },
+  {
+    "traffic_xy_id": 12,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:14",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 13,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:15"
+  },
+  {
+    "traffic_xy_id": 13,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:15",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 14,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:16"
+  },
+  {
+    "traffic_xy_id": 14,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:16",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 15,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:17"
+  },
+  {
+    "traffic_xy_id": 15,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:17",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 16,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:18"
+  },
+  {
+    "traffic_xy_id": 16,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:18",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 17,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.113.139\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.113.139 10.0.2.15\n",
+    "start": "04/07/2021T08:25:19"
+  },
+  {
+    "traffic_xy_id": 17,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:25:19",
+    "y": 2
+  },
+  {
+    "keypresses_id": 9,
+    "content": "[Control_L]z",
+    "className": "Keypresses",
+    "start": "04/07/2021T08:25:20"
+  }
+]

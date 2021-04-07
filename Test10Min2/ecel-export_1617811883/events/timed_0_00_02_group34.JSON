@@ -1,0 +1,66 @@
+[
+  {
+    "traffic_all_id": 134,
+    "content": "8 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43044 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43044 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000010\n",
+    "start": "04/07/2021T16:10:17"
+  },
+  {
+    "traffic_xy_id": 134,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:10:17",
+    "y": 8
+  },
+  {
+    "auditd_id": 24,
+    "content": "sudo ss -tulwn",
+    "className": "auditd",
+    "start": "04/07/2021T16:10:18"
+  },
+  {
+    "auditd_id": 25,
+    "content": "ss -tulwn",
+    "className": "auditd",
+    "start": "04/07/2021T16:10:18"
+  },
+  {
+    "keypresses_id": 16,
+    "content": "[Up][Up][Return]",
+    "className": "Keypresses",
+    "start": "04/07/2021T16:10:18"
+  },
+  {
+    "timed_id": 21,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617811818.4810522_screenshot.png",
+    "start": "04/07/2021T16:10:18"
+  },
+  {
+    "traffic_all_id": 135,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43028 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43028 443 0x00000010\n",
+    "start": "04/07/2021T16:10:19"
+  },
+  {
+    "traffic_xy_id": 135,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:10:19",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 136,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43046 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43046 0x00000010\n",
+    "start": "04/07/2021T16:10:20"
+  },
+  {
+    "traffic_xy_id": 136,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:10:20",
+    "y": 2
+  }
+]

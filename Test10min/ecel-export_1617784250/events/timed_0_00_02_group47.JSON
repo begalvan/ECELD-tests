@@ -1,0 +1,42 @@
+[
+  {
+    "keypresses_id": 16,
+    "content": "ping amazon.com[Return]",
+    "className": "Keypresses",
+    "start": "04/07/2021T08:30:14"
+  },
+  {
+    "traffic_all_id": 118,
+    "content": "3 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 50394 53\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 50394\n",
+    "start": "04/07/2021T08:30:14"
+  },
+  {
+    "traffic_xy_id": 118,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:30:14",
+    "y": 3
+  },
+  {
+    "suricata_id": 321,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:30:14"
+  },
+  {
+    "suricata_id": 322,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:30:14"
+  },
+  {
+    "suricata_id": 323,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T08:30:14"
+  }
+]

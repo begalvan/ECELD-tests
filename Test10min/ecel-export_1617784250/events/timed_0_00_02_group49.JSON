@@ -1,0 +1,69 @@
+[
+  {
+    "auditd_id": 7,
+    "content": "service /usr/sbin/service auditd stop",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:40"
+  },
+  {
+    "clicks_id": 11,
+    "content": "C:/Users/begv1/Desktop/ECELD-test/Test10min/ecel-export_1617784250\\raw/pykeylogger/click_images/1617784240.5125148_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T08:30:40"
+  },
+  {
+    "auditd_id": 8,
+    "content": "basename /usr/sbin/service",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 9,
+    "content": "basename /usr/sbin/service",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 10,
+    "content": "systemctl --quiet is-active multi-user.target",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 11,
+    "content": "sed -ne s/\\.socket\\s*[a-z]*\\s*$/.socket/p",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 12,
+    "content": "systemctl list-unit-files --full multi-user.target",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 13,
+    "content": "xhost -SI:localuser:root",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 14,
+    "content": "auditd_parser.s bash /home/kali/eceld-netsys/eceld/plugins/parsers/auditd/auditd_parser.sh /home/kali/eceld-netsys/eceld/plugins/collectors/auditd/raw /home/kali/eceld-netsys/eceld/plugins/collectors/auditd/parsed",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 15,
+    "content": "bash /home/kali/eceld-netsys/eceld/plugins/parsers/auditd/auditd_parser.sh /home/kali/eceld-netsys/eceld/plugins/collectors/auditd/raw /home/kali/eceld-netsys/eceld/plugins/collectors/auditd/parsed",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  },
+  {
+    "auditd_id": 16,
+    "content": "cat /home/kali/eceld-netsys/eceld/plugins/collectors/auditd/raw/1617783779_auditd.txt",
+    "className": "auditd",
+    "start": "04/07/2021T08:30:41"
+  }
+]

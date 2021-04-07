@@ -1,0 +1,22 @@
+[
+  {
+    "clicks_id": 10,
+    "content": "C:/Users/begv1/Desktop/ECELD-test/Test10min/ecel-export_1617784250\\raw/pykeylogger/click_images/1617784031.341852_Navigator_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T08:27:11"
+  },
+  {
+    "traffic_all_id": 44,
+    "content": "9 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42738 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42738 443 0x00000011\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42738 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42738 0x00000011\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42738 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42738 443 0x00000004\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42738 0x00000014\n",
+    "start": "04/07/2021T08:27:11"
+  },
+  {
+    "traffic_xy_id": 44,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T08:27:11",
+    "y": 9
+  }
+]

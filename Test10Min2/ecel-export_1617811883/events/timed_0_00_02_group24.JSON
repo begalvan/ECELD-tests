@@ -1,0 +1,43 @@
+[
+  {
+    "traffic_all_id": 18,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41832 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41832 80 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 151.139.128.14 35484 80 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 151.139.128.14 10.0.2.15 80 35484 0x00000010\n",
+    "start": "04/07/2021T16:07:25"
+  },
+  {
+    "traffic_xy_id": 18,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:07:25",
+    "y": 4
+  },
+  {
+    "suricata_id": 119,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:25"
+  },
+  {
+    "suricata_id": 120,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:25"
+  },
+  {
+    "suricata_id": 121,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:26"
+  },
+  {
+    "suricata_id": 122,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:26"
+  }
+]

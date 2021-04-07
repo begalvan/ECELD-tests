@@ -1,0 +1,27 @@
+[
+  {
+    "auditd_id": 0,
+    "content": "bash",
+    "className": "auditd",
+    "start": "04/07/2021T08:23:11"
+  },
+  {
+    "auditd_id": 1,
+    "content": "tput setaf 1",
+    "className": "auditd",
+    "start": "04/07/2021T08:23:11"
+  },
+  {
+    "auditd_id": 2,
+    "content": "dircolors -b",
+    "className": "auditd",
+    "start": "04/07/2021T08:23:11"
+  },
+  {
+    "timed_id": 3,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617783792.7790492_screenshot.png",
+    "start": "04/07/2021T08:23:12"
+  }
+]

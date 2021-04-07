@@ -1,0 +1,16 @@
+[
+  {
+    "clicks_id": 7,
+    "content": "C:/Users/begv1/Desktop/ECELD-test/Test10min/ecel-export_1617784250\\raw/pykeylogger/click_images/1617784209.4180312_Prompt_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T08:30:09"
+  },
+  {
+    "timed_id": 8,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617784210.2508557_screenshot.png",
+    "start": "04/07/2021T08:30:10"
+  }
+]

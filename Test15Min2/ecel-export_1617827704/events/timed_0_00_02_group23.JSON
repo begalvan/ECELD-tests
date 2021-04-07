@@ -1,0 +1,52 @@
+[
+  {
+    "auditd_id": 15,
+    "content": "bash",
+    "className": "auditd",
+    "start": "04/07/2021T20:23:17"
+  },
+  {
+    "auditd_id": 16,
+    "content": "tput setaf 1",
+    "className": "auditd",
+    "start": "04/07/2021T20:23:17"
+  },
+  {
+    "auditd_id": 17,
+    "content": "dircolors -b",
+    "className": "auditd",
+    "start": "04/07/2021T20:23:17"
+  },
+  {
+    "auditd_id": 18,
+    "content": "bash",
+    "className": "auditd",
+    "start": "04/07/2021T20:23:19"
+  },
+  {
+    "auditd_id": 19,
+    "content": "tput setaf 1",
+    "className": "auditd",
+    "start": "04/07/2021T20:23:19"
+  },
+  {
+    "auditd_id": 20,
+    "content": "dircolors -b",
+    "className": "auditd",
+    "start": "04/07/2021T20:23:19"
+  },
+  {
+    "clicks_id": 28,
+    "content": "C:/Users/begv1/Desktop/ECELD-tests/Test15Min2/ecel-export_1617827704\\raw/pykeylogger/click_images/1617827000.6964052_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T20:23:20"
+  },
+  {
+    "timed_id": 1,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617827001.498625_screenshot.png",
+    "start": "04/07/2021T20:23:21"
+  }
+]

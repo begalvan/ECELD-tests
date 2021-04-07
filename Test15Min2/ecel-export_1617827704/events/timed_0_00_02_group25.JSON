@@ -1,0 +1,15 @@
+[
+  {
+    "clicks_id": 5,
+    "content": "C:/Users/begv1/Desktop/ECELD-tests/Test15Min2/ecel-export_1617827704\\raw/pykeylogger/click_images/1617827015.3560364_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T20:23:35"
+  },
+  {
+    "keypresses_id": 17,
+    "content": "ping",
+    "className": "Keypresses",
+    "start": "04/07/2021T20:23:37"
+  }
+]

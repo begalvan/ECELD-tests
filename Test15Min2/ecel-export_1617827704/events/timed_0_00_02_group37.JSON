@@ -1,0 +1,22 @@
+[
+  {
+    "clicks_id": 71,
+    "content": "C:/Users/begv1/Desktop/ECELD-tests/Test15Min2/ecel-export_1617827704\\raw/pykeylogger/click_images/1617827629.729344_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T20:33:49"
+  },
+  {
+    "traffic_all_id": 500,
+    "content": "1 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.138.95 10.0.2.15 443 34114 0x00000014\n",
+    "start": "04/07/2021T20:33:49"
+  },
+  {
+    "traffic_xy_id": 500,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T20:33:49",
+    "y": 1
+  }
+]

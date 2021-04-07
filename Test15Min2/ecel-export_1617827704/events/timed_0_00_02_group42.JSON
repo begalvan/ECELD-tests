@@ -1,0 +1,15 @@
+[
+  {
+    "traffic_all_id": 501,
+    "content": "1 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 194.169.80.123 10.0.2.15 443 44978 0x00000014\n",
+    "start": "04/07/2021T20:34:07"
+  },
+  {
+    "traffic_xy_id": 501,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T20:34:07",
+    "y": 1
+  }
+]

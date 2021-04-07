@@ -1,0 +1,905 @@
+[
+  {
+    "clicks_id": 18,
+    "content": "C:/Users/begv1/Desktop/ECELD-test2/Test10Min2/ecel-export_1617811883\\raw/pykeylogger/click_images/1617811605.3648307_Navigator_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T16:06:45"
+  },
+  {
+    "traffic_all_id": 0,
+    "content": "58 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 36270 53\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000018\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 36270\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 151.139.128.14 10.0.2.15 80 35484 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 151.139.128.14 35484 80 0x00000002\neth:ethertype:ip:tcp:tls:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:pkix1explicit:x509ce:pkix1implicit:tls:x509ce:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:pkix1implicit:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000012\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 151.139.128.14 35484 80 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 151.139.128.14 35484 80 0x00000010\neth:ethertype:ip:tcp:tls:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:pkix1explicit:x509ce:pkix1implicit:tls:x509ce:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:pkix1implicit:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000012\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 49031\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000002\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 49031 53\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 151.139.128.14 10.0.2.15 80 35484 0x00000012\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 151.139.128.14 10.0.2.15 80 35484 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000010\n",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "traffic_xy_id": 0,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:47",
+    "y": 58
+  },
+  {
+    "suricata_id": 0,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 1,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 2,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 3,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 4,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 5,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 6,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 7,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "suricata_id": 8,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:47"
+  },
+  {
+    "clicks_id": 7,
+    "content": "C:/Users/begv1/Desktop/ECELD-test2/Test10Min2/ecel-export_1617811883\\raw/pykeylogger/click_images/1617811608.7949398_Navigator_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T16:06:48"
+  },
+  {
+    "suricata_id": 9,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:48"
+  },
+  {
+    "suricata_id": 10,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:48"
+  },
+  {
+    "suricata_id": 11,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:48"
+  },
+  {
+    "suricata_id": 12,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:48"
+  },
+  {
+    "suricata_id": 13,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:48"
+  },
+  {
+    "suricata_id": 14,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:48"
+  },
+  {
+    "keypresses_id": 8,
+    "content": "utep.[Return]",
+    "className": "Keypresses",
+    "start": "04/07/2021T16:06:49"
+  },
+  {
+    "traffic_all_id": 1,
+    "content": "250 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 33135 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 52320 53\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.97 10.0.2.15 443 54702 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.97 10.0.2.15 443 54702 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.97 10.0.2.15 443 54702 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41836 80 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000010\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41830 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 37658 53\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41836 0x00000010\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 39386\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41832 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41834 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41830 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41834 80 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 33135\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000010\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41832 80 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.97 54702 443 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.115.95 48020 443 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.78 53960 443 0x00000010\neth:ethertype:ip:tcp:tls:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:pkix1explicit:pkix1implicit:x509ce:tls:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:pkix1implicit:x509ce:x509ce:pkix1explicit:x509ce:x509ce:tls:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000018\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 39386 53\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41832 80 0x00000010\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41830 80 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000002\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41834 80 0x00000018\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41832 0x00000018\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 48047\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41836 80 0x00000002\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41830 80 0x00000010\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41836 0x00000018\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41834 0x00000018\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 37366 53\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41836 0x00000012\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41834 0x00000012\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41830 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 172.217.9.138 41176 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41832 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.115.95 10.0.2.15 443 48020 0x00000018\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41836 80 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.115.95 10.0.2.15 443 48020 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.115.95 10.0.2.15 443 48020 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 172.217.9.138 41176 443 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.115.95 10.0.2.15 443 48020 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000012\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 52320\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 37658\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41834 80 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000002\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000010\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 42726 53\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.78 53960 443 0x00000002\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.115.95 10.0.2.15 443 48020 0x00000012\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 37366\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.115.95 48020 443 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.78 53960 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41832 80 0x00000002\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.115.95 48020 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.97 10.0.2.15 443 54702 0x00000012\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 42726\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43014 443 0x00000002\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 48047 53\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41830 80 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 172.217.9.138 41176 443 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000002\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.97 54702 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000012\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.97 54702 443 0x00000018\n",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "traffic_xy_id": 1,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:50",
+    "y": 250
+  },
+  {
+    "suricata_id": 15,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 16,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 17,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 18,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 19,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 20,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 21,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 22,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 23,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 24,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 25,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 26,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 27,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 28,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 29,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 30,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 31,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 32,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 33,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 34,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 35,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 36,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 37,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 38,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 39,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 40,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 41,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 42,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 43,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 44,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 45,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 46,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 47,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 48,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 49,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 50,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 51,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 52,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "suricata_id": 53,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:50"
+  },
+  {
+    "traffic_all_id": 2,
+    "content": "1956 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.97 10.0.2.15 443 54702 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43014 443 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 172.217.9.138 41176 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000012\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 172.217.9.138 41176 443 0x00000018\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43014 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.97 54702 443 0x00000018\n",
+    "start": "04/07/2021T16:06:51"
+  },
+  {
+    "traffic_xy_id": 2,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:51",
+    "y": 1956
+  },
+  {
+    "traffic_all_id": 3,
+    "content": "1676 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.94 10.0.2.15 443 54396 0x00000012\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.94 10.0.2.15 443 54394 0x00000012\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.114.94 10.0.2.15 443 54392 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000004\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.94 54394 443 0x00000004\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 58631\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43014 443 0x00000011\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.94 54392 443 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.94 54396 443 0x00000004\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000018\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 58631 53\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43014 443 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.94 54392 443 0x00000004\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.94 54396 443 0x00000002\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43014 443 0x00000004\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000019\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43014 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42986 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000014\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.114.94 54394 443 0x00000002\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43014 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42986 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\n",
+    "start": "04/07/2021T16:06:52"
+  },
+  {
+    "traffic_xy_id": 3,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:52",
+    "y": 1676
+  },
+  {
+    "suricata_id": 54,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:52"
+  },
+  {
+    "suricata_id": 55,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:52"
+  },
+  {
+    "suricata_id": 56,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:52"
+  },
+  {
+    "suricata_id": 57,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:52"
+  },
+  {
+    "traffic_all_id": 4,
+    "content": "31 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000010\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 34958 53\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000012\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000018\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 34958\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000002\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\n",
+    "start": "04/07/2021T16:06:53"
+  },
+  {
+    "traffic_xy_id": 4,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:53",
+    "y": 31
+  },
+  {
+    "suricata_id": 58,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:53"
+  },
+  {
+    "suricata_id": 59,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:53"
+  },
+  {
+    "suricata_id": 60,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:53"
+  },
+  {
+    "suricata_id": 61,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:53"
+  },
+  {
+    "clicks_id": 9,
+    "content": "C:/Users/begv1/Desktop/ECELD-test2/Test10Min2/ecel-export_1617811883\\raw/pykeylogger/click_images/1617811614.284552_Navigator_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T16:06:54"
+  },
+  {
+    "traffic_all_id": 5,
+    "content": "80 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000012\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000018\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 60906\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.138.155 53862 443 0x00000002\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41832 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000010\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41832 80 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.78 53960 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.138.155 10.0.2.15 443 53862 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.138.155 53862 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41832 80 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.138.155 10.0.2.15 443 53862 0x00000010\neth:ethertype:ip:tcp:tls:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:pkix1explicit:x509ce:pkix1implicit:tls:x509ce:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:x509ce:pkix1implicit:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509sat:x509ce:x509ce:x509ce  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000018\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41832 0x00000018\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 151.139.128.14 35484 80 0x00000018\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 48047\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.138.155 10.0.2.15 443 53862 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.8.211 40736 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 142.250.138.155 53862 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 151.139.128.14 35484 80 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.8.211 40736 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 142.250.138.155 10.0.2.15 443 53862 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 151.139.128.14 10.0.2.15 80 35484 0x00000010\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 60906 53\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.78 53960 443 0x00000018\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 151.139.128.14 10.0.2.15 80 35484 0x00000018\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 48047 53\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.8.211 40736 443 0x00000002\n",
+    "start": "04/07/2021T16:06:54"
+  },
+  {
+    "traffic_xy_id": 5,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:54",
+    "y": 80
+  },
+  {
+    "traffic_all_id": 6,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.8.211 40736 443 0x00000010\n",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "traffic_xy_id": 6,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:55",
+    "y": 2
+  },
+  {
+    "suricata_id": 62,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 63,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 64,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 65,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 66,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 67,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 68,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 69,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 70,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 71,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 72,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 73,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 74,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 75,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 76,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "suricata_id": 77,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:06:55"
+  },
+  {
+    "timed_id": 11,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617811617.4788706_screenshot.png",
+    "start": "04/07/2021T16:06:57"
+  },
+  {
+    "traffic_all_id": 7,
+    "content": "24 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\n",
+    "start": "04/07/2021T16:06:58"
+  },
+  {
+    "traffic_xy_id": 7,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:58",
+    "y": 24
+  },
+  {
+    "traffic_all_id": 8,
+    "content": "422 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43028 443 0x00000002\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43028 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43028 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43030 443 0x00000002\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43030 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 23.46.240.128 10.0.2.15 443 36564 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43030 0x00000018\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43028 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43030 0x00000012\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43028 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43028 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43028 443 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43008 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43008 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43028 443 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43030 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 172.217.9.138 41176 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43030 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 42984 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43028 0x00000012\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 172.217.9.138 10.0.2.15 443 41176 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43030 443 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43030 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 23.46.240.128 36564 443 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43030 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 42984 0x00000010\n",
+    "start": "04/07/2021T16:06:59"
+  },
+  {
+    "traffic_xy_id": 8,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:06:59",
+    "y": 422
+  },
+  {
+    "traffic_all_id": 9,
+    "content": "154 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41836 80 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000004\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000014\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41836 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000011\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41834 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41830 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.8.211 40736 443 0x00000004\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41830 80 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.8.211 40736 443 0x00000011\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.8.211 40736 443 0x00000018\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41834 80 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.8.211 10.0.2.15 443 40736 0x00000014\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43010 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43010 443 0x00000011\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\n",
+    "start": "04/07/2021T16:07:00"
+  },
+  {
+    "traffic_xy_id": 9,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:07:00",
+    "y": 154
+  },
+  {
+    "suricata_id": 78,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:00"
+  },
+  {
+    "suricata_id": 79,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:00"
+  },
+  {
+    "suricata_id": 80,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:00"
+  },
+  {
+    "suricata_id": 81,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:00"
+  },
+  {
+    "suricata_id": 82,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:00"
+  },
+  {
+    "suricata_id": 83,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:00"
+  },
+  {
+    "traffic_all_id": 10,
+    "content": "68 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 47466\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000018\neth:ethertype:ip:tcp:http:ocsp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 72.21.91.29 53726 80 0x00000018\neth:ethertype:ip:tcp:http:ocsp:ocsp  52:54:00:12:35:02 08:00:27:23:ff:90 72.21.91.29 10.0.2.15 80 53726 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 157.240.19.26 10.0.2.15 443 51456 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000018\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 47466 53\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 157.240.19.26 10.0.2.15 443 51456 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 157.240.19.26 51456 443 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000010\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 157.240.19.26 51456 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 129.108.0.145 43012 443 0x00000010\neth:ethertype:ip:tcp:tls:tls  52:54:00:12:35:02 08:00:27:23:ff:90 157.240.19.26 10.0.2.15 443 51456 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.78 53960 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 72.21.91.29 10.0.2.15 80 53726 0x00000012\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 57729\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 72.21.91.29 53726 80 0x00000002\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 157.240.19.26 10.0.2.15 443 51456 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.78 10.0.2.15 443 53960 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 72.21.91.29 10.0.2.15 80 53726 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 157.240.19.26 51456 443 0x00000002\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 157.240.19.26 10.0.2.15 443 51456 0x00000012\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.78 53960 443 0x00000018\neth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 129.108.0.145 10.0.2.15 443 43012 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 72.21.91.29 53726 80 0x00000010\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 57729 53\n",
+    "start": "04/07/2021T16:07:01"
+  },
+  {
+    "traffic_xy_id": 10,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:07:01",
+    "y": 68
+  },
+  {
+    "suricata_id": 84,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:01"
+  },
+  {
+    "suricata_id": 85,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:01"
+  },
+  {
+    "suricata_id": 86,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 87,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 88,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 89,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 90,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 91,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 92,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 93,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "suricata_id": 94,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:02"
+  },
+  {
+    "traffic_all_id": 11,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp:tls  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000018\neth:ethertype:ip:tcp:tls  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000018\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 104.19.148.8 42220 443 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 104.19.148.8 10.0.2.15 443 42220 0x00000010\n",
+    "start": "04/07/2021T16:07:03"
+  },
+  {
+    "traffic_xy_id": 11,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:07:03",
+    "y": 4
+  },
+  {
+    "traffic_all_id": 12,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 216.58.194.99 10.0.2.15 80 41832 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 216.58.194.99 41832 80 0x00000010\neth:ethertype:ip:tcp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 151.139.128.14 35484 80 0x00000010\neth:ethertype:ip:tcp  52:54:00:12:35:02 08:00:27:23:ff:90 151.139.128.14 10.0.2.15 80 35484 0x00000010\n",
+    "start": "04/07/2021T16:07:05"
+  },
+  {
+    "traffic_xy_id": 12,
+    "className": "trafficThroughput",
+    "start": "04/07/2021T16:07:05",
+    "y": 4
+  },
+  {
+    "suricata_id": 95,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:05"
+  },
+  {
+    "suricata_id": 96,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:05"
+  },
+  {
+    "suricata_id": 97,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:06"
+  },
+  {
+    "suricata_id": 98,
+    "suricata_rule_id": "[1:3:0]",
+    "content": "HTTP ",
+    "className": "suricataAlert",
+    "start": "04/07/2021T16:07:06"
+  },
+  {
+    "clicks_id": 17,
+    "content": "C:/Users/begv1/Desktop/ECELD-test2/Test10Min2/ecel-export_1617811883\\raw/pykeylogger/click_images/1617811627.4253614_Navigator_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/07/2021T16:07:07"
+  }
+]
