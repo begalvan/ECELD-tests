@@ -1,0 +1,14 @@
+[
+  {
+    "auditd_id": 42,
+    "content": "rm -r Sample2/",
+    "className": "auditd",
+    "start": "04/08/2021T21:48:57"
+  },
+  {
+    "keypresses_id": 65,
+    "content": "rm -r [Shift_R]S[Tab][Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:48:57"
+  }
+]

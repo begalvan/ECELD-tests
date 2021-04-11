@@ -1,0 +1,8 @@
+[
+  {
+    "auditd_id": 38,
+    "content": "mkdir Sample2",
+    "className": "auditd",
+    "start": "04/08/2021T21:48:33"
+  }
+]

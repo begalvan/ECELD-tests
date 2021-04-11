@@ -1,0 +1,15 @@
+[
+  {
+    "keypresses_id": 3,
+    "content": "'[Shift_R]{print[Shift_R] [Shift_R][Shift_R]$2",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:32:39"
+  },
+  {
+    "clicks_id": 28,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917560.4389815_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:32:40"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "auditd_id": 4,
+    "content": "awk {print $2}",
+    "className": "auditd",
+    "start": "04/08/2021T21:33:56"
+  },
+  {
+    "auditd_id": 5,
+    "content": "grep -w inet",
+    "className": "auditd",
+    "start": "04/08/2021T21:33:56"
+  },
+  {
+    "auditd_id": 6,
+    "content": "ip a s",
+    "className": "auditd",
+    "start": "04/08/2021T21:33:56"
+  },
+  {
+    "keypresses_id": 12,
+    "content": "t [Shift_R]$2[Shift_R]}'[Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:33:56"
+  },
+  {
+    "timed_id": 43,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617917637.794772_screenshot.png",
+    "start": "04/08/2021T21:33:57"
+  }
+]

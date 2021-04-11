@@ -1,0 +1,97 @@
+[
+  {
+    "keypresses_id": 31,
+    "content": "goog[Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:37:49"
+  },
+  {
+    "clicks_id": 13,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917870.5184681_Navigator_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "traffic_all_id": 89,
+    "content": "6 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 49142 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 42741 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 43957 53\n",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "traffic_xy_id": 89,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:37:50",
+    "y": 6
+  },
+  {
+    "suricata_id": 38,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "suricata_id": 39,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "suricata_id": 40,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "suricata_id": 41,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "suricata_id": 42,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "suricata_id": 43,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:50"
+  },
+  {
+    "traffic_all_id": 90,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 43142 53\n",
+    "start": "04/08/2021T21:37:51"
+  },
+  {
+    "traffic_xy_id": 90,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:37:51",
+    "y": 2
+  },
+  {
+    "suricata_id": 44,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:51"
+  },
+  {
+    "suricata_id": 45,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:37:51"
+  }
+]

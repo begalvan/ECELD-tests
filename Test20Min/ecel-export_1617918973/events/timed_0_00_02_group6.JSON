@@ -1,0 +1,15 @@
+[
+  {
+    "clicks_id": 56,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917548.385781_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:32:28"
+  },
+  {
+    "keypresses_id": 2,
+    "content": "inte [Shift_R][bar][BackSpace][BackSpace][BackSpace]et [Shift_R][bar] [Shift_R][bar] awk ",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:32:29"
+  }
+]

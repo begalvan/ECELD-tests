@@ -1,0 +1,15 @@
+[
+  {
+    "keypresses_id": 56,
+    "content": "[Shift_R]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:47:56"
+  },
+  {
+    "timed_id": 28,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617918476.6563072_screenshot.png",
+    "start": "04/08/2021T21:47:56"
+  }
+]

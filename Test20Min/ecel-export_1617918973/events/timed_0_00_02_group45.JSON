@@ -1,0 +1,141 @@
+[
+  {
+    "traffic_all_id": 97,
+    "content": "23 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:ip:udp  52:54:00:12:35:02 08:00:27:23:ff:90 10.0.2.2 10.0.2.15\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 52068 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 43711 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 32996 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 59094 53\neth:ethertype:ip:udp:dns  52:54:00:12:35:02 08:00:27:23:ff:90 192.168.1.1 10.0.2.15 53 43711\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 47361 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 40161 53\n",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "traffic_xy_id": 97,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:38:10",
+    "y": 23
+  },
+  {
+    "suricata_id": 72,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 73,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 74,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 75,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 76,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 77,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 78,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 79,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 80,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 81,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 82,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 83,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 84,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 85,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 86,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:10"
+  },
+  {
+    "suricata_id": 87,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:11"
+  },
+  {
+    "suricata_id": 88,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:11"
+  },
+  {
+    "suricata_id": 89,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:11"
+  }
+]

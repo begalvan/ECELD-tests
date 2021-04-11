@@ -1,0 +1,15 @@
+[
+  {
+    "timed_id": 37,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617918631.1435008_screenshot.png",
+    "start": "04/08/2021T21:50:31"
+  },
+  {
+    "keypresses_id": 71,
+    "content": "ping ",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:50:33"
+  }
+]

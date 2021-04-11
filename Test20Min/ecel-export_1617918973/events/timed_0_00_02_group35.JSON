@@ -1,0 +1,1270 @@
+[
+  {
+    "timed_id": 22,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617917736.2627316_screenshot.png",
+    "start": "04/08/2021T21:35:36"
+  },
+  {
+    "keypresses_id": 24,
+    "content": "ping 8.8.8.8[Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:35:38"
+  },
+  {
+    "traffic_all_id": 0,
+    "content": "3 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:38"
+  },
+  {
+    "traffic_xy_id": 0,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:38",
+    "y": 3
+  },
+  {
+    "suricata_id": 0,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:35:38"
+  },
+  {
+    "suricata_id": 1,
+    "suricata_rule_id": "[1:1:0]",
+    "content": "PING ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:35:38"
+  },
+  {
+    "traffic_all_id": 1,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:39"
+  },
+  {
+    "traffic_xy_id": 1,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:39",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 2,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:40"
+  },
+  {
+    "traffic_xy_id": 2,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:40",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 3,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:41"
+  },
+  {
+    "traffic_xy_id": 3,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:41",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 4,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:42"
+  },
+  {
+    "traffic_xy_id": 4,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:42",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 5,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\neth:ethertype:arp  52:54:00:12:35:02 08:00:27:23:ff:90 10.0.2.2 10.0.2.15\neth:ethertype:arp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 10.0.2.2\n",
+    "start": "04/08/2021T21:35:43"
+  },
+  {
+    "traffic_xy_id": 5,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:43",
+    "y": 4
+  },
+  {
+    "traffic_all_id": 6,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:44"
+  },
+  {
+    "traffic_xy_id": 6,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:44",
+    "y": 2
+  },
+  {
+    "clicks_id": 53,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917745.9336343_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:35:45"
+  },
+  {
+    "traffic_all_id": 7,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:45"
+  },
+  {
+    "traffic_xy_id": 7,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:45",
+    "y": 2
+  },
+  {
+    "auditd_id": 20,
+    "content": "bash",
+    "className": "auditd",
+    "start": "04/08/2021T21:35:46"
+  },
+  {
+    "auditd_id": 21,
+    "content": "tput setaf 1",
+    "className": "auditd",
+    "start": "04/08/2021T21:35:46"
+  },
+  {
+    "auditd_id": 22,
+    "content": "dircolors -b",
+    "className": "auditd",
+    "start": "04/08/2021T21:35:46"
+  },
+  {
+    "traffic_all_id": 8,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:46"
+  },
+  {
+    "traffic_xy_id": 8,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:46",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 9,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:47"
+  },
+  {
+    "traffic_xy_id": 9,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:47",
+    "y": 2
+  },
+  {
+    "clicks_id": 63,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917748.6526582_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:35:48"
+  },
+  {
+    "traffic_all_id": 10,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:48"
+  },
+  {
+    "traffic_xy_id": 10,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:48",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 11,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:49"
+  },
+  {
+    "traffic_xy_id": 11,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:49",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 12,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:50"
+  },
+  {
+    "traffic_xy_id": 12,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:50",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 13,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:51"
+  },
+  {
+    "traffic_xy_id": 13,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:51",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 14,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:52"
+  },
+  {
+    "traffic_xy_id": 14,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:52",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 15,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:53"
+  },
+  {
+    "traffic_xy_id": 15,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:53",
+    "y": 2
+  },
+  {
+    "timed_id": 38,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617917754.7823784_screenshot.png",
+    "start": "04/08/2021T21:35:54"
+  },
+  {
+    "traffic_all_id": 16,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:54"
+  },
+  {
+    "traffic_xy_id": 16,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:54",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 17,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:55"
+  },
+  {
+    "traffic_xy_id": 17,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:55",
+    "y": 2
+  },
+  {
+    "keypresses_id": 25,
+    "content": "sudo ss",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:35:56"
+  },
+  {
+    "traffic_all_id": 18,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:56"
+  },
+  {
+    "traffic_xy_id": 18,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:56",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 19,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:57"
+  },
+  {
+    "traffic_xy_id": 19,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:57",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 20,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:58"
+  },
+  {
+    "traffic_xy_id": 20,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:58",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 21,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:35:59"
+  },
+  {
+    "traffic_xy_id": 21,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:35:59",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 22,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:00"
+  },
+  {
+    "traffic_xy_id": 22,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:00",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 23,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:01"
+  },
+  {
+    "traffic_xy_id": 23,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:01",
+    "y": 2
+  },
+  {
+    "keypresses_id": 26,
+    "content": " -tulwn",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:36:02"
+  },
+  {
+    "traffic_all_id": 24,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:02"
+  },
+  {
+    "traffic_xy_id": 24,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:02",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 25,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:03"
+  },
+  {
+    "traffic_xy_id": 25,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:03",
+    "y": 2
+  },
+  {
+    "auditd_id": 23,
+    "content": "sudo ss -tulwn",
+    "className": "auditd",
+    "start": "04/08/2021T21:36:04"
+  },
+  {
+    "traffic_all_id": 26,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:04"
+  },
+  {
+    "traffic_xy_id": 26,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:04",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 27,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:05"
+  },
+  {
+    "traffic_xy_id": 27,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:05",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 28,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:06"
+  },
+  {
+    "traffic_xy_id": 28,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:06",
+    "y": 2
+  },
+  {
+    "auditd_id": 24,
+    "content": "ss -tulwn",
+    "className": "auditd",
+    "start": "04/08/2021T21:36:07"
+  },
+  {
+    "keypresses_id": 27,
+    "content": "[Return]kali[Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:36:07"
+  },
+  {
+    "traffic_all_id": 29,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:07"
+  },
+  {
+    "traffic_xy_id": 29,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:07",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 30,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:08"
+  },
+  {
+    "traffic_xy_id": 30,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:08",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 31,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:09"
+  },
+  {
+    "traffic_xy_id": 31,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:09",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 32,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:10"
+  },
+  {
+    "traffic_xy_id": 32,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:10",
+    "y": 2
+  },
+  {
+    "timed_id": 12,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617917771.4349434_screenshot.png",
+    "start": "04/08/2021T21:36:11"
+  },
+  {
+    "traffic_all_id": 33,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:11"
+  },
+  {
+    "traffic_xy_id": 33,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:11",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 34,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:12"
+  },
+  {
+    "traffic_xy_id": 34,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:12",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 35,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\neth:ethertype:arp  52:54:00:12:35:02 08:00:27:23:ff:90 10.0.2.2 10.0.2.15\neth:ethertype:arp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 10.0.2.2\n",
+    "start": "04/08/2021T21:36:13"
+  },
+  {
+    "traffic_xy_id": 35,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:13",
+    "y": 4
+  },
+  {
+    "traffic_all_id": 36,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:14"
+  },
+  {
+    "traffic_xy_id": 36,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:14",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 37,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:15"
+  },
+  {
+    "traffic_xy_id": 37,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:15",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 38,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:16"
+  },
+  {
+    "traffic_xy_id": 38,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:16",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 39,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:17"
+  },
+  {
+    "traffic_xy_id": 39,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:17",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 40,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:18"
+  },
+  {
+    "traffic_xy_id": 40,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:18",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 41,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:19"
+  },
+  {
+    "traffic_xy_id": 41,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:19",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 42,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:20"
+  },
+  {
+    "traffic_xy_id": 42,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:20",
+    "y": 2
+  },
+  {
+    "clicks_id": 54,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917781.8932567_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:36:21"
+  },
+  {
+    "traffic_all_id": 43,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:21"
+  },
+  {
+    "traffic_xy_id": 43,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:21",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 44,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:22"
+  },
+  {
+    "traffic_xy_id": 44,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:22",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 45,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:23"
+  },
+  {
+    "traffic_xy_id": 45,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:23",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 46,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:24"
+  },
+  {
+    "traffic_xy_id": 46,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:24",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 47,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:25"
+  },
+  {
+    "traffic_xy_id": 47,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:25",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 48,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:26"
+  },
+  {
+    "traffic_xy_id": 48,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:26",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 49,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:27"
+  },
+  {
+    "traffic_xy_id": 49,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:27",
+    "y": 2
+  },
+  {
+    "auditd_id": 25,
+    "content": "sudo ps -a",
+    "className": "auditd",
+    "start": "04/08/2021T21:36:28"
+  },
+  {
+    "auditd_id": 26,
+    "content": "ps -a",
+    "className": "auditd",
+    "start": "04/08/2021T21:36:28"
+  },
+  {
+    "keypresses_id": 28,
+    "content": "sudo ps -a[Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:36:28"
+  },
+  {
+    "traffic_all_id": 50,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:28"
+  },
+  {
+    "traffic_xy_id": 50,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:28",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 51,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:29"
+  },
+  {
+    "traffic_xy_id": 51,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:29",
+    "y": 2
+  },
+  {
+    "timed_id": 20,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617917790.3667948_screenshot.png",
+    "start": "04/08/2021T21:36:30"
+  },
+  {
+    "traffic_all_id": 52,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:30"
+  },
+  {
+    "traffic_xy_id": 52,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:30",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 53,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:31"
+  },
+  {
+    "traffic_xy_id": 53,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:31",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 54,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:32"
+  },
+  {
+    "traffic_xy_id": 54,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:32",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 55,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:33"
+  },
+  {
+    "traffic_xy_id": 55,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:33",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 56,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:34"
+  },
+  {
+    "traffic_xy_id": 56,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:34",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 57,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:35"
+  },
+  {
+    "traffic_xy_id": 57,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:35",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 58,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:36"
+  },
+  {
+    "traffic_xy_id": 58,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:36",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 59,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:37"
+  },
+  {
+    "traffic_xy_id": 59,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:37",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 60,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:38"
+  },
+  {
+    "traffic_xy_id": 60,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:38",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 61,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:39"
+  },
+  {
+    "traffic_xy_id": 61,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:39",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 62,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:40"
+  },
+  {
+    "traffic_xy_id": 62,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:40",
+    "y": 2
+  },
+  {
+    "clicks_id": 32,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917801.940452_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:36:41"
+  },
+  {
+    "traffic_all_id": 63,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:41"
+  },
+  {
+    "traffic_xy_id": 63,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:41",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 64,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\neth:ethertype:arp  52:54:00:12:35:02 08:00:27:23:ff:90 10.0.2.2 10.0.2.15\neth:ethertype:arp  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 10.0.2.2\n",
+    "start": "04/08/2021T21:36:42"
+  },
+  {
+    "traffic_xy_id": 64,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:42",
+    "y": 4
+  },
+  {
+    "traffic_all_id": 65,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:43"
+  },
+  {
+    "traffic_xy_id": 65,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:43",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 66,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:44"
+  },
+  {
+    "traffic_xy_id": 66,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:44",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 67,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:45"
+  },
+  {
+    "traffic_xy_id": 67,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:45",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 68,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:46"
+  },
+  {
+    "traffic_xy_id": 68,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:46",
+    "y": 2
+  },
+  {
+    "clicks_id": 17,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917807.4075303_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:36:47"
+  },
+  {
+    "traffic_all_id": 69,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:47"
+  },
+  {
+    "traffic_xy_id": 69,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:47",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 70,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:48"
+  },
+  {
+    "traffic_xy_id": 70,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:48",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 71,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:49"
+  },
+  {
+    "traffic_xy_id": 71,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:49",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 72,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:50"
+  },
+  {
+    "traffic_xy_id": 72,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:50",
+    "y": 2
+  },
+  {
+    "clicks_id": 27,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917811.28682_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:36:51"
+  },
+  {
+    "traffic_all_id": 73,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:51"
+  },
+  {
+    "traffic_xy_id": 73,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:51",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 74,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:52"
+  },
+  {
+    "traffic_xy_id": 74,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:52",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 75,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:53"
+  },
+  {
+    "traffic_xy_id": 75,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:53",
+    "y": 2
+  },
+  {
+    "timed_id": 57,
+    "type": "point",
+    "classname": "imgPoint",
+    "content": "/home/kali/eceld-netsys/eceld/plugins/collectors/pykeylogger/raw/timed_screenshots/1617917814.0586746_screenshot.png",
+    "start": "04/08/2021T21:36:54"
+  },
+  {
+    "traffic_all_id": 76,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:54"
+  },
+  {
+    "traffic_xy_id": 76,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:54",
+    "y": 2
+  },
+  {
+    "clicks_id": 77,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617917815.9799302_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:36:55"
+  },
+  {
+    "traffic_all_id": 77,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:55"
+  },
+  {
+    "traffic_xy_id": 77,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:55",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 78,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:56"
+  },
+  {
+    "traffic_xy_id": 78,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:56",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 79,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:57"
+  },
+  {
+    "traffic_xy_id": 79,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:57",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 80,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:58"
+  },
+  {
+    "traffic_xy_id": 80,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:58",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 81,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:36:59"
+  },
+  {
+    "traffic_xy_id": 81,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:36:59",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 82,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:37:00"
+  },
+  {
+    "traffic_xy_id": 82,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:37:00",
+    "y": 2
+  },
+  {
+    "traffic_all_id": 83,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:icmp:data  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 8.8.8.8\neth:ethertype:ip:icmp:data  52:54:00:12:35:02 08:00:27:23:ff:90 8.8.8.8 10.0.2.15\n",
+    "start": "04/08/2021T21:37:01"
+  },
+  {
+    "traffic_xy_id": 83,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:37:01",
+    "y": 2
+  },
+  {
+    "keypresses_id": 29,
+    "content": "[Control_L]z",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:37:02"
+  }
+]

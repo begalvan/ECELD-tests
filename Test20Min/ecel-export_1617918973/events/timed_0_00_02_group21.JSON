@@ -1,0 +1,14 @@
+[
+  {
+    "auditd_id": 7,
+    "content": "sudo ifconfig",
+    "className": "auditd",
+    "start": "04/08/2021T21:34:04"
+  },
+  {
+    "keypresses_id": 13,
+    "content": "sudo ifconfig[Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:34:04"
+  }
+]

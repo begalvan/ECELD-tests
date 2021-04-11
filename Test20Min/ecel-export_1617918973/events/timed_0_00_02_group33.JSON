@@ -1,0 +1,20 @@
+[
+  {
+    "auditd_id": 17,
+    "content": "bash",
+    "className": "auditd",
+    "start": "04/08/2021T21:35:30"
+  },
+  {
+    "auditd_id": 18,
+    "content": "tput setaf 1",
+    "className": "auditd",
+    "start": "04/08/2021T21:35:30"
+  },
+  {
+    "auditd_id": 19,
+    "content": "dircolors -b",
+    "className": "auditd",
+    "start": "04/08/2021T21:35:30"
+  }
+]

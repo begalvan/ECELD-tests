@@ -1,0 +1,27 @@
+[
+  {
+    "clicks_id": 18,
+    "content": "/home/kali/eceld-netsys/ProjectData/Test20Min/ecel-export_1617918973/raw/pykeylogger/click_images/1617918428.9721189_qterminal_root.png",
+    "type": "point",
+    "classname": "imgPoint",
+    "start": "04/08/2021T21:47:08"
+  },
+  {
+    "auditd_id": 35,
+    "content": "sudo lsof -i -P -n",
+    "className": "auditd",
+    "start": "04/08/2021T21:47:10"
+  },
+  {
+    "auditd_id": 36,
+    "content": "lsof -i -P -n",
+    "className": "auditd",
+    "start": "04/08/2021T21:47:10"
+  },
+  {
+    "keypresses_id": 52,
+    "content": "sudo lsof -i -[Shift_R]P -n[Return]",
+    "className": "Keypresses",
+    "start": "04/08/2021T21:47:10"
+  }
+]

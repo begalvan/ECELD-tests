@@ -1,0 +1,70 @@
+[
+  {
+    "traffic_all_id": 95,
+    "content": "4 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 59094 53\neth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 34142 53\n",
+    "start": "04/08/2021T21:38:05"
+  },
+  {
+    "traffic_xy_id": 95,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:38:05",
+    "y": 4
+  },
+  {
+    "suricata_id": 66,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:05"
+  },
+  {
+    "suricata_id": 67,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:05"
+  },
+  {
+    "suricata_id": 68,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:05"
+  },
+  {
+    "suricata_id": 69,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:05"
+  },
+  {
+    "traffic_all_id": 96,
+    "content": "2 p/s",
+    "className": "traffic",
+    "title": "eth:ethertype:ip:udp:dns  08:00:27:23:ff:90 52:54:00:12:35:02 10.0.2.15 192.168.1.1 58647 53\n",
+    "start": "04/08/2021T21:38:06"
+  },
+  {
+    "traffic_xy_id": 96,
+    "className": "trafficThroughput",
+    "start": "04/08/2021T21:38:06",
+    "y": 2
+  },
+  {
+    "suricata_id": 70,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:06"
+  },
+  {
+    "suricata_id": 71,
+    "suricata_rule_id": "[1:2:0]",
+    "content": "DNS ",
+    "className": "suricataAlert",
+    "start": "04/08/2021T21:38:06"
+  }
+]
